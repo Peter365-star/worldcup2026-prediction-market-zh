@@ -16,7 +16,7 @@
     },
     "historical_note": "Historical seed restricted to OUT-FROM-START cases that are publicly documented. Partial absences (injuries mid-tournament) are noted but excluded from calibration to keep the signal clean.",
     "compiled_at": "2026-05-17",
-    "current_updated_at": "2026-06-10T12:18:11.476Z",
+    "current_updated_at": "2026-06-12T17:47:26.235Z",
     "current_source": "transfermarkt squad pages (injury flag)"
   },
   "historical": {
@@ -88,15 +88,7 @@
   },
   "current": {
     "ALG": [],
-    "ARG": [
-      {
-        "player": "Lionel Messi",
-        "position": "WG",
-        "minutes_qual": 0,
-        "market_value_mil": 15,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "ARG": [],
     "AUS": [],
     "AUT": [],
     "BEL": [
@@ -124,15 +116,7 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "BRA": [
-      {
-        "player": "Neymar",
-        "position": "AM",
-        "minutes_qual": 0,
-        "market_value_mil": 8,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "BRA": [],
     "CAN": [
       {
         "player": "Alphonso Davies",
@@ -168,16 +152,16 @@
     "IRN": [],
     "IRQ": [],
     "JOR": [],
-    "JPN": [
+    "JPN": [],
+    "KOR": [
       {
-        "player": "Yuito Suzuki",
-        "position": "AM",
+        "player": "Tae-hyeon Kim",
+        "position": "CB",
         "minutes_qual": 0,
-        "market_value_mil": 24,
+        "market_value_mil": 1.2,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "KOR": [],
     "KSA": [
       {
         "player": "Nawaf Al-Aqidi",
@@ -200,13 +184,6 @@
         "position": "FB",
         "minutes_qual": 0,
         "market_value_mil": 18,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Abde Ezzalzouli",
-        "position": "WG",
-        "minutes_qual": 0,
-        "market_value_mil": 40,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
@@ -274,7 +251,22 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "SUI": [],
+    "SUI": [
+      {
+        "player": "Stefan Gartenmann",
+        "position": "CB",
+        "minutes_qual": 0,
+        "market_value_mil": 1.2,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Joël Monteiro",
+        "position": "CM",
+        "minutes_qual": 0,
+        "market_value_mil": 7,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "SWE": [],
     "TUN": [],
     "TUR": [

@@ -1,0 +1,24 @@
+import { useTranslations } from 'next-intl';
+
+export function Footer() {
+  const t = useTranslations('footer');
+
+  return (
+    <footer className="relative z-10 mt-4 border-t border-border py-6 sm:mt-6">
+      <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-gold/40 to-transparent" />
+      <div className="mx-auto flex max-w-[1440px] flex-col gap-4 px-4 sm:flex-row sm:items-center sm:justify-between sm:px-6">
+        <div className="space-y-2">
+          <p className="text-xs text-fg-2">{t('credits')}</p>
+          <a
+            href="#methodology"
+            className="inline-block text-xs text-fg-1 underline decoration-gold/40 underline-offset-4 hover:decoration-gold"
+          >
+            {t('methodology_link')}
+          </a>
+        </div>
+
+        <p className="self-end text-xs text-fg-2 sm:self-auto">{t('made_by')}</p>
+      </div>
+    </footer>
+  );
+}

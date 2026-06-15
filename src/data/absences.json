@@ -16,7 +16,7 @@
     },
     "historical_note": "Historical seed restricted to OUT-FROM-START cases that are publicly documented. Partial absences (injuries mid-tournament) are noted but excluded from calibration to keep the signal clean.",
     "compiled_at": "2026-05-17",
-    "current_updated_at": "2026-06-13T15:24:21.641Z",
+    "current_updated_at": "2026-06-15T15:02:10.227Z",
     "current_source": "transfermarkt squad pages (injury flag)"
   },
   "historical": {
@@ -101,7 +101,57 @@
       }
     ],
     "BIH": [],
-    "BRA": [],
+    "BRA": [
+      {
+        "player": "Éder Militão",
+        "position": "CB",
+        "minutes_qual": 0,
+        "market_value_mil": 40,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Caio Henrique",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 18,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Luciano Juba",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 3,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Wesley",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 9,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Rodrygo",
+        "position": "WG",
+        "minutes_qual": 0,
+        "market_value_mil": 100,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Estêvão",
+        "position": "WG",
+        "minutes_qual": 0,
+        "market_value_mil": 50,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Vitor Roque",
+        "position": "ATT",
+        "minutes_qual": 0,
+        "market_value_mil": 20,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "CAN": [],
     "CIV": [
       {
@@ -126,7 +176,15 @@
     "GER": [],
     "GHA": [],
     "HAI": [],
-    "IRN": [],
+    "IRN": [
+      {
+        "player": "Roozbeh Cheshmi",
+        "position": "DM",
+        "minutes_qual": 0,
+        "market_value_mil": 0.45,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "IRQ": [],
     "JOR": [],
     "JPN": [],
@@ -139,34 +197,10 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "KSA": [
-      {
-        "player": "Nawaf Al-Aqidi",
-        "position": "GK",
-        "minutes_qual": 0,
-        "market_value_mil": 0.65,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
-    "MAR": [
-      {
-        "player": "Anass Salah-Eddine",
-        "position": "FB",
-        "minutes_qual": 0,
-        "market_value_mil": 12,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "KSA": [],
+    "MAR": [],
     "MEX": [],
-    "NED": [
-      {
-        "player": "Bart Verbruggen",
-        "position": "GK",
-        "minutes_qual": 0,
-        "market_value_mil": 40,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "NED": [],
     "NOR": [],
     "NZL": [],
     "PAN": [
@@ -214,22 +248,7 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "SUI": [
-      {
-        "player": "Stefan Gartenmann",
-        "position": "CB",
-        "minutes_qual": 0,
-        "market_value_mil": 1.2,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Joël Monteiro",
-        "position": "CM",
-        "minutes_qual": 0,
-        "market_value_mil": 7,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "SUI": [],
     "SWE": [],
     "TUN": [],
     "TUR": [],
@@ -243,21 +262,6 @@
       }
     ],
     "USA": [],
-    "UZB": [
-      {
-        "player": "Khusniddin Alikulov",
-        "position": "CB",
-        "minutes_qual": 0,
-        "market_value_mil": 1.7,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Ibrokhimkhalil Yuldoshev",
-        "position": "FB",
-        "minutes_qual": 0,
-        "market_value_mil": 0.9,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ]
+    "UZB": []
   }
 }

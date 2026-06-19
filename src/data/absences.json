@@ -16,7 +16,7 @@
     },
     "historical_note": "Historical seed restricted to OUT-FROM-START cases that are publicly documented. Partial absences (injuries mid-tournament) are noted but excluded from calibration to keep the signal clean.",
     "compiled_at": "2026-05-17",
-    "current_updated_at": "2026-06-18T12:23:09.370Z",
+    "current_updated_at": "2026-06-19T12:45:23.559Z",
     "current_source": "transfermarkt squad pages (injury flag)"
   },
   "historical": {
@@ -90,7 +90,15 @@
     "ALG": [],
     "ARG": [],
     "AUS": [],
-    "AUT": [],
+    "AUT": [
+      {
+        "player": "Stefan Posch",
+        "position": "CB",
+        "minutes_qual": 0,
+        "market_value_mil": 6,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "BEL": [
       {
         "player": "Zeno Debast",
@@ -110,7 +118,15 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "CAN": [],
+    "CAN": [
+      {
+        "player": "Ismaël Koné",
+        "position": "CM",
+        "minutes_qual": 0,
+        "market_value_mil": 25,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "CIV": [
       {
         "player": "Evan Ndicka",
@@ -125,31 +141,39 @@
     "CPV": [],
     "CRO": [],
     "CUW": [],
-    "CZE": [],
-    "ECU": [
+    "CZE": [
       {
-        "player": "Jhoanner Chávez",
+        "player": "David Jurásek",
         "position": "FB",
         "minutes_qual": 0,
-        "market_value_mil": 4,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Patrik Mercado",
-        "position": "AM",
-        "minutes_qual": 0,
-        "market_value_mil": 0.75,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Leonardo Campana",
-        "position": "ATT",
-        "minutes_qual": 0,
-        "market_value_mil": 3.5,
+        "market_value_mil": 5,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "EGY": [],
+    "ECU": [],
+    "EGY": [
+      {
+        "player": "Mohamed Hamdi",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 1.2,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Karim Fouad",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 0.6,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Islam Issa",
+        "position": "WG",
+        "minutes_qual": 0,
+        "market_value_mil": 0.35,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "ENG": [],
     "ESP": [],
     "FRA": [],
@@ -171,30 +195,16 @@
     ],
     "KSA": [],
     "MAR": [],
-    "MEX": [
+    "MEX": [],
+    "NED": [
       {
-        "player": "Luis Malagón",
-        "position": "GK",
-        "minutes_qual": 0,
-        "market_value_mil": 7,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Rodrigo Huescas",
-        "position": "FB",
-        "minutes_qual": 0,
-        "market_value_mil": 5,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Marcel Ruiz",
+        "player": "Quinten Timber",
         "position": "CM",
         "minutes_qual": 0,
-        "market_value_mil": 6.5,
+        "market_value_mil": 25,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "NED": [],
     "NOR": [],
     "NZL": [],
     "PAN": [],
@@ -233,28 +243,6 @@
       }
     ],
     "USA": [],
-    "UZB": [
-      {
-        "player": "Khusniddin Alikulov",
-        "position": "CB",
-        "minutes_qual": 0,
-        "market_value_mil": 1.7,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Ibrokhimkhalil Yuldoshev",
-        "position": "FB",
-        "minutes_qual": 0,
-        "market_value_mil": 0.9,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Jaloliddin Masharipov",
-        "position": "WG",
-        "minutes_qual": 0,
-        "market_value_mil": 1.8,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ]
+    "UZB": []
   }
 }

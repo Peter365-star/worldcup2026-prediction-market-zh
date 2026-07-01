@@ -16,7 +16,7 @@
     },
     "historical_note": "Historical seed restricted to OUT-FROM-START cases that are publicly documented. Partial absences (injuries mid-tournament) are noted but excluded from calibration to keep the signal clean.",
     "compiled_at": "2026-05-17",
-    "current_updated_at": "2026-06-30T11:43:14.919Z",
+    "current_updated_at": "2026-07-01T11:56:50.955Z",
     "current_source": "transfermarkt squad pages (injury flag)"
   },
   "historical": {
@@ -103,6 +103,13 @@
     "BIH": [],
     "BRA": [
       {
+        "player": "Lucas Paquetá",
+        "position": "AM",
+        "minutes_qual": 0,
+        "market_value_mil": 32,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
         "player": "Raphinha",
         "position": "WG",
         "minutes_qual": 0,
@@ -144,8 +151,24 @@
     "ECU": [],
     "EGY": [],
     "ENG": [],
-    "ESP": [],
-    "FRA": [],
+    "ESP": [
+      {
+        "player": "Nico Williams",
+        "position": "WG",
+        "minutes_qual": 0,
+        "market_value_mil": 40,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
+    "FRA": [
+      {
+        "player": "Marcus Thuram",
+        "position": "ATT",
+        "minutes_qual": 0,
+        "market_value_mil": 50,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "GER": [
       {
         "player": "Nico Schlotterbeck",
@@ -158,25 +181,9 @@
     "GHA": [],
     "HAI": [],
     "IRN": [],
-    "IRQ": [
-      {
-        "player": "Aymen Hussein",
-        "position": "ATT",
-        "minutes_qual": 0,
-        "market_value_mil": 0.4,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "IRQ": [],
     "JOR": [],
-    "JPN": [
-      {
-        "player": "Takefusa Kubo",
-        "position": "WG",
-        "minutes_qual": 0,
-        "market_value_mil": 20,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "JPN": [],
     "KOR": [],
     "KSA": [],
     "MAR": [],
@@ -208,7 +215,15 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "SWE": [],
+    "SWE": [
+      {
+        "player": "Isak Hien",
+        "position": "CB",
+        "minutes_qual": 0,
+        "market_value_mil": 22,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "TUN": [],
     "TUR": [],
     "URU": [

@@ -16,7 +16,7 @@
     },
     "historical_note": "Historical seed restricted to OUT-FROM-START cases that are publicly documented. Partial absences (injuries mid-tournament) are noted but excluded from calibration to keep the signal clean.",
     "compiled_at": "2026-05-17",
-    "current_updated_at": "2026-07-11T10:12:59.951Z",
+    "current_updated_at": "2026-07-12T10:25:12.907Z",
     "current_source": "transfermarkt squad pages (injury flag)"
   },
   "historical": {
@@ -189,16 +189,23 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "ENG": [
+    "ENG": [],
+    "ESP": [
       {
-        "player": "Jordan Henderson",
-        "position": "DM",
+        "player": "Fermín López",
+        "position": "AM",
         "minutes_qual": 0,
-        "market_value_mil": 1.2,
+        "market_value_mil": 50,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Samu Aghehowa",
+        "position": "ATT",
+        "minutes_qual": 0,
+        "market_value_mil": 50,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "ESP": [],
     "FRA": [],
     "GER": [
       {
@@ -209,7 +216,15 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "GHA": [],
+    "GHA": [
+      {
+        "player": "Marvin Senaya",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 3,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "HAI": [],
     "IRN": [],
     "IRQ": [],
@@ -217,15 +232,7 @@
     "JPN": [],
     "KOR": [],
     "KSA": [],
-    "MAR": [
-      {
-        "player": "Ismael Saibari",
-        "position": "AM",
-        "minutes_qual": 0,
-        "market_value_mil": 40,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "MAR": [],
     "MEX": [],
     "NED": [],
     "NOR": [],
@@ -254,13 +261,6 @@
       }
     ],
     "SUI": [
-      {
-        "player": "Luca Jaquez",
-        "position": "CB",
-        "minutes_qual": 0,
-        "market_value_mil": 10,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
       {
         "player": "Johan Manzambi",
         "position": "CM",

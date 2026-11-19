@@ -16,7 +16,7 @@
     },
     "historical_note": "Historical seed restricted to OUT-FROM-START cases that are publicly documented. Partial absences (injuries mid-tournament) are noted but excluded from calibration to keep the signal clean.",
     "compiled_at": "2026-05-17",
-    "current_updated_at": "2026-11-18T17:44:48.229Z",
+    "current_updated_at": "2026-11-19T17:54:17.476Z",
     "current_source": "transfermarkt squad pages (injury flag)"
   },
   "historical": {
@@ -87,7 +87,15 @@
     }
   },
   "current": {
-    "ALG": [],
+    "ALG": [
+      {
+        "player": "Anis Hadj Moussa",
+        "position": "WG",
+        "minutes_qual": 0,
+        "market_value_mil": 28,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "ARG": [
       {
         "player": "Aarón Anselmino",
@@ -112,30 +120,45 @@
         "minutes_qual": 0,
         "market_value_mil": 9,
         "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
-    "BEL": [
+      },
       {
-        "player": "Romelu Lukaku",
-        "position": "ATT",
+        "player": "Yusuf Demir",
+        "position": "WG",
         "minutes_qual": 0,
-        "market_value_mil": 6,
+        "market_value_mil": 2.5,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "BIH": [],
+    "BEL": [],
+    "BIH": [
+      {
+        "player": "Haris Tabakovic",
+        "position": "ATT",
+        "minutes_qual": 0,
+        "market_value_mil": 3.5,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "BRA": [],
-    "CAN": [],
+    "CAN": [
+      {
+        "player": "Alphonso Davies",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 45,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "CIV": [],
     "COD": [],
     "COL": [],
     "CPV": [],
     "CRO": [
       {
-        "player": "Ivan Perisic",
-        "position": "WG",
+        "player": "Nikola Vlašić",
+        "position": "AM",
         "minutes_qual": 0,
-        "market_value_mil": 1.2,
+        "market_value_mil": 10,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
@@ -162,15 +185,7 @@
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
-    "CZE": [
-      {
-        "player": "Tomáš Souček",
-        "position": "DM",
-        "minutes_qual": 0,
-        "market_value_mil": 6,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "CZE": [],
     "ECU": [],
     "EGY": [
       {
@@ -182,13 +197,6 @@
       }
     ],
     "ENG": [
-      {
-        "player": "Ezri Konsa",
-        "position": "CB",
-        "minutes_qual": 0,
-        "market_value_mil": 50,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
       {
         "player": "Dan Burn",
         "position": "CB",
@@ -221,40 +229,33 @@
     "IRQ": [],
     "JOR": [],
     "JPN": [],
-    "KOR": [
-      {
-        "player": "Tae-hyeon Kim",
-        "position": "CB",
-        "minutes_qual": 0,
-        "market_value_mil": 1.2,
-        "reason": "Injured (flagged by transfermarkt)"
-      }
-    ],
+    "KOR": [],
     "KSA": [],
     "MAR": [],
     "MEX": [],
-    "NED": [],
-    "NOR": [],
-    "NZL": [],
-    "PAN": [],
-    "PAR": [
+    "NED": [
       {
-        "player": "Ramón Sosa",
-        "position": "WG",
+        "player": "Frenkie de Jong",
+        "position": "CM",
         "minutes_qual": 0,
-        "market_value_mil": 10,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Antonio Sanabria",
-        "position": "ATT",
-        "minutes_qual": 0,
-        "market_value_mil": 1.8,
+        "market_value_mil": 25,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
+    "NOR": [],
+    "NZL": [],
+    "PAN": [],
+    "PAR": [],
     "POR": [],
-    "QAT": [],
+    "QAT": [
+      {
+        "player": "Pedro Miguel",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 0.15,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
     "RSA": [],
     "SCO": [
       {
@@ -268,6 +269,13 @@
     "SEN": [],
     "SUI": [
       {
+        "player": "Manuel Akanji",
+        "position": "CB",
+        "minutes_qual": 0,
+        "market_value_mil": 17,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
         "player": "Winsley Boteli",
         "position": "ATT",
         "minutes_qual": 0,
@@ -277,20 +285,6 @@
     ],
     "SWE": [
       {
-        "player": "Carl Starfelt",
-        "position": "CB",
-        "minutes_qual": 0,
-        "market_value_mil": 4.5,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "John Mellberg",
-        "position": "CB",
-        "minutes_qual": 0,
-        "market_value_mil": 2,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
         "player": "Gabriel Gudmundsson",
         "position": "FB",
         "minutes_qual": 0,
@@ -298,17 +292,10 @@
         "reason": "Injured (flagged by transfermarkt)"
       },
       {
-        "player": "Emil Holm",
-        "position": "FB",
+        "player": "Alieu Njie",
+        "position": "WG",
         "minutes_qual": 0,
-        "market_value_mil": 10,
-        "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Lucas Bergvall",
-        "position": "CM",
-        "minutes_qual": 0,
-        "market_value_mil": 40,
+        "market_value_mil": 15,
         "reason": "Injured (flagged by transfermarkt)"
       },
       {
@@ -317,23 +304,31 @@
         "minutes_qual": 0,
         "market_value_mil": 8,
         "reason": "Injured (flagged by transfermarkt)"
-      },
-      {
-        "player": "Hugo Bolin",
-        "position": "WG",
-        "minutes_qual": 0,
-        "market_value_mil": 7.5,
-        "reason": "Injured (flagged by transfermarkt)"
       }
     ],
     "TUN": [],
-    "TUR": [],
-    "URU": [
+    "TUR": [
       {
-        "player": "Sebastián Jaume",
+        "player": "Uğurcan Çakır",
         "position": "GK",
         "minutes_qual": 0,
-        "market_value_mil": 0.7,
+        "market_value_mil": 13,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Zeki Çelik",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 14,
+        "reason": "Injured (flagged by transfermarkt)"
+      }
+    ],
+    "URU": [
+      {
+        "player": "Joaquín Piquerez",
+        "position": "FB",
+        "minutes_qual": 0,
+        "market_value_mil": 12,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ],
@@ -344,6 +339,13 @@
         "position": "CB",
         "minutes_qual": 0,
         "market_value_mil": 50,
+        "reason": "Injured (flagged by transfermarkt)"
+      },
+      {
+        "player": "Abbosbek Fayzullaev",
+        "position": "WG",
+        "minutes_qual": 0,
+        "market_value_mil": 7,
         "reason": "Injured (flagged by transfermarkt)"
       }
     ]
